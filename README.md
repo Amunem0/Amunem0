@@ -29,7 +29,7 @@
 <a href="https://www.leetcode.com/amunem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amunem" height="30" width="40" /></a>
 </p>
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div align="center" >
   <h3 align="center">Languages and Tools:</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -73,7 +73,7 @@
     </a>
   </div>
 
-  <div style="display: flex; justify-content: center; margin-top: 20px;">
+  <div align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amunem0&show_icons=true&locale=en&layout=compact" alt="amunem0" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=amunem0&show_icons=true&locale=en" alt="amunem0" />
   </div>
