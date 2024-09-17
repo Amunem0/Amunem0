@@ -2,9 +2,9 @@
 <h2 align="center">Welcome to my github profile. Hi 👋 , I'm Aryan.</h2>
 <h3 align="center">A complete all rounder from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amunem0" alt="amunem0" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amunem0" alt="amunem0" /></a> </p>
 
-- 🔭 I’m currently working on [Web Extension for an internship] (https://chromewebstore.google.com/detail/seo-extension-instant-web/bklidobeonicpmmkbkcnaljjbehhgfbl?hl=en)
+- 🔭 I’m currently working on Web Extension for an internship <a href="https://bit.ly/3RqhdFV" target="_blank">SEO Extension - Instant Web</a>
 
 - 🌱 I’m currently learning **JavaScript, React.js, DSA**
 
@@ -12,7 +12,8 @@
 
 - 🤝 I’m looking for help with **Improving skills and learning new tech ( ofcourse i prefer learning new libraries )**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Amunem0](https://github.com/Amunem0)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Amunem0" target="_blank">Amunem0 GitHub Profile</a>
+
 
 - 💬 Ask me about **Nothing**
 
