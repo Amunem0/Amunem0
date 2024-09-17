@@ -1,10 +1,10 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm Aryan Kashikar</h1>
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Aryan </h1>
 <h3 align="center">A complete all rounder from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amunem0" alt="amunem0" /></a> </p>
 
-- 🔭 I’m currently working on [Web Extension for an internship](https://chromewebstore.google.com/detail/seo-extension-instant-web/bklidobeonicpmmkbkcnaljjbehhgfbl/reviews)
+- 🔭 I’m currently working on [Web Extension for an internship] (https://chromewebstore.google.com/detail/seo-extension-instant-web/bklidobeonicpmmkbkcnaljjbehhgfbl/reviews)
 
 - 🌱 I’m currently learning **JavaScript, React.js, DSA**
 
@@ -20,8 +20,8 @@
 
 - ⚡ Fun fact **I can love to play video games all day**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/aryankashikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryankashikar" height="30" width="40" /></a>
 <a href="https://instagram.com/aryankashikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryankashikar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/amunem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amunem" height="30" width="40" /></a>
