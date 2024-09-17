@@ -73,7 +73,7 @@
     </a>
   </div>
 
-  <div align="center">
+  <div align="center" style="display: flex; justify-content: between;>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amunem0&show_icons=true&locale=en&layout=compact" alt="amunem0" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=amunem0&show_icons=true&locale=en" alt="amunem0" />
   </div>
