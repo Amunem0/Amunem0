@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amunem0" alt="amunem0" /></a> </p>
 
-- 🔭 I’m currently working on Web Extension for an internship <a href="[https://bit.ly/3RqhdFV](https://chromewebstore.google.com/detail/seo-extension-instant-web/bklidobeonicpmmkbkcnaljjbehhgfbl)" target="_blank">SEO Extension - Instant Web</a>
+- 🔭 I’m currently working on Web Extension for an internship <a href="(https://chromewebstore.google.com/detail/seo-extension-instant-web/bklidobeonicpmmkbkcnaljjbehhgfbl)" target="_blank">SEO Extension - Instant Web</a>
 
 - 🌱 I’m currently learning **JavaScript, React.js, DSA**
 
