@@ -75,8 +75,8 @@
   </div>
 
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amunem0&show_icons=true&locale=en&layout=compact" alt="amunem0" />
-    <img src="https://github-readme-stats.vercel.app/api?username=amunem0&show_icons=true&locale=en" alt="amunem0" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amunem0&show_icons=true&locale=en&layout=compact" alt="amunem0" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Amunem0&show_icons=true&locale=en" alt="amunem0" />
   </div>
   <div style="display: flex; justify-content: center; margin-top: 20px;">
     <a href="https://git.io/streak-stats" target="_blank">
