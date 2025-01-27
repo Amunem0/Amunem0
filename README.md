@@ -80,7 +80,7 @@
   </div>
   <div style="display: flex; justify-content: center; margin-top: 20px;">
     <a href="https://git.io/streak-stats" target="_blank">
-      <img src="https://streak-stats.demolab.com/?user=Amunem0&theme=dark" alt="GitHub Streak" />
+      [![GitHub Streak](https://streak-stats.demolab.com/?user=Amunem0)](https://git.io/streak-stats)
     </a>
   </div>
 </div>
